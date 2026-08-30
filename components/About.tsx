@@ -2,7 +2,7 @@ import { profile } from "@/lib/data";
 import Reveal from "./Reveal";
 
 const stats = [
-  { label: "Years experience", value: "3+", color: "text-primary" },
+  { label: "Years experience", value: "3", color: "text-primary" },
   { label: "Companies", value: "3", color: "text-secondary" },
   { label: "Core stack", value: "React / Node", color: "text-tertiary" },
 ];

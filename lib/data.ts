@@ -9,7 +9,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/nishanth-sekar-2b48082b7/",
   resumeHref: "/resume.pdf",
   summary:
-    "Full Stack Developer with 3 years of experience building scalable web and mobile applications using React.js, Node.js, React Native, MongoDB, JavaScript, HTML, and CSS. Experienced in developing responsive UIs, REST APIs, and implementing Unit Testing and Playwright E2E Testing to ensure application quality. Passionate about writing clean, maintainable code and delivering high-performance solutions in agile environments.",
+    "Full Stack Developer with around 3 years of experience building scalable web and mobile applications using React.js, Node.js, React Native, MongoDB, JavaScript, HTML, and CSS. Experienced in developing responsive UIs, REST APIs, and implementing Unit Testing and Playwright E2E Testing to ensure application quality. Passionate about writing clean, maintainable code and delivering high-performance solutions in agile environments.",
   tagline:
     "Building fast, responsive web & mobile products with React, Node.js and a lot of attention to detail.",
   headline: "Crafting Digital Excellence",
