@@ -7,7 +7,7 @@ export const profile = {
   phone: "+91 89408 91631",
   phoneHref: "+918940891631",
   linkedin: "https://www.linkedin.com/in/nishanth-sekar-2b48082b7/",
-  resumeHref: "/resume.pdf",
+  resumeHref: "/NISHANTH_FULL_STACK_DEVELOPER.pdf",
   summary:
     "Full Stack Developer with around 3 years of experience building scalable web and mobile applications using React.js, Node.js, React Native, MongoDB, JavaScript, HTML, and CSS. Experienced in developing responsive UIs, REST APIs, and implementing Unit Testing and Playwright E2E Testing to ensure application quality. Passionate about writing clean, maintainable code and delivering high-performance solutions in agile environments.",
   tagline:
