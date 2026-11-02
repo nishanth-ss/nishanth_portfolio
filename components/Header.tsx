@@ -36,7 +36,7 @@ export default function Header() {
           href="#top"
           className="font-display text-headline-sm tracking-tight text-primary"
         >
-          {profile.initials}.DEV
+          {profile.name}
         </a>
 
         <nav className="hidden items-center gap-xl lg:flex">
